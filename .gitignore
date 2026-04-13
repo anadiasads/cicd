@@ -1,0 +1,31 @@
+# Build
+bin/
+obj/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Arquivos compilados
+*.dll
+*.exe
+*.pdb
+
+# Logs
+*.log
+
+# Pacotes
+*.nupkg
+packages/
+
+# Cache
+*.cache
+
+# Rider / VS Code
+.idea/
+.vscode/
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
